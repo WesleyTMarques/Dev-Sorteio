@@ -127,19 +127,18 @@ img {
         margin-left: 11%;
     }
 
-    .drawNumber{
+    .drawNumber {
         margin-left: 20%;
     }
 
-    .guessNumber{
+    .guessNumber {
         margin-left: 21%;
     }
 
-    .shotNumber{
+    .shotNumber {
         width: 415px;
     }
 }
-
 
 @media screen and (max-width: 392px) {
     img {
@@ -148,15 +147,15 @@ img {
         margin-left: 7%;
     }
 
-    .drawNumber{
+    .drawNumber {
         margin-left: 20%;
     }
 
-    .guessNumber{
+    .guessNumber {
         margin-left: 21%;
     }
 
-    .shotNumber{
+    .shotNumber {
         width: 415px;
     }
 }
